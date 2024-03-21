@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Garage_door_system", "Garage_door_system.cproj", "{F7F9AEEA-AF67-4EBE-8395-17E1C0F3746D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F9AEEA-AF67-4EBE-8395-17E1C0F3746D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F7F9AEEA-AF67-4EBE-8395-17E1C0F3746D}.Debug|AVR.Build.0 = Debug|AVR
+		{F7F9AEEA-AF67-4EBE-8395-17E1C0F3746D}.Release|AVR.ActiveCfg = Release|AVR
+		{F7F9AEEA-AF67-4EBE-8395-17E1C0F3746D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
